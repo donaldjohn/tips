@@ -1,7 +1,8 @@
 # 彻底删除IDEA
 
 卸载MAC中的IDEA Intellij 首先在应用里面右键移动到垃圾桶然后使用命令行：
-cd Users/xxx/Library/ 上面的xxx对应你的用户名，
+```cd Users/xxx/Library/ ```
+上面的xxx对应你的用户名，
 然后输入
 ```
 rm -rf Logs/IntelliJIdeaxxx/ 
